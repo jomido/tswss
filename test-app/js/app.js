@@ -147,7 +147,7 @@ var App = (function (me) {
 	    console.log(e.data);
 	}
 
-	me.disconnect = function () {
+	me.disconnect = function () { 
 
 		// Disconnect the app from the server
 		// ====================================================================
