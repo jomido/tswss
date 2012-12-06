@@ -53,3 +53,7 @@ Safari 5.1.7 would not work (I believe due to it implementing an older version o
 #### Android
 
 No. I hear that either the latest Firefox, or Firefox dev channel for Android [has support for WebSockets](https://wiki.mozilla.org/Mobile/Platforms/Android). Unfortunately, I do not have access to an Android device to test this.
+
+#### Windows Phone 8
+
+I hear it's all a-ok. Unfortunately, I do not have access to an Windows Phone 8 device to test this.
