@@ -103,8 +103,8 @@ var App = (function (me) {
 
 	me.receive = function (msg) {
 
-		// Receive messages from the server
-		// ====================================================================
+	    // Receive messages from the server
+	    // ====================================================================
 
 	    console.log("Received message: ");
 	    console.log(msg);
@@ -118,8 +118,8 @@ var App = (function (me) {
 
 	me.send = function (msg) {
 
-		// Send messages to the server
-		// ====================================================================
+	    // Send messages to the server
+	    // ====================================================================
 
 	    if (!me.isConnected()) me.connect();
 
